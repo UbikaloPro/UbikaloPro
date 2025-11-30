@@ -1,5 +1,11 @@
-# 💫 About Me:
-Desarrollador y facilitador, actualmente trabajando en 3 grandes proyectos, la base de datos para la Cámara de Comercio de Valencia, un sistema par la gestión de registros, eventos y acctividades y en nuestraplataforma Ubikalo.com<br><br>Soy el ejemplo de versatilidad, médico veterinario de profesión y ahora desarrollador, programador y cofundadro de Ubikalo.com<br><br>Creo en el talento y en las alianzas para lograr objetivo comunes.<br><br>Creyendo, creando y sembrando!
+# 💫 About Me/Acerca de mi:
+Desarrollador full-stack y consultor en transformación digital, con experiencia en PHP, MySQL y JavaScript. Actualmente lidero tres proyectos clave: digitalización de la base de datos para la Cámara de Comercio de Valencia, un sistema versátil de gestión de registros, eventos y actividades, y Ubikalo.com, mi plataforma de directorio empresarial sostenible cofundada desde 2007.
+
+Médico veterinario de formación (UCV 1994), transitando con éxito hacia la programación y el emprendimiento digital, representando versatilidad y adaptación continua en entornos dinámicos.​
+
+Promovo alianzas estratégicas y talento colaborativo para metas compartidas, sembrando innovación en comunidades locales como eventos Innovalencia y Expo Fedecámaras.​
+
+¡Creando impacto, conectando oportunidades, creyendo, creando y sembrando! 🚀
 
 
 ## 🌐 Socials:
